@@ -26,7 +26,7 @@
 ### 1️⃣ کلون کردن پروژه
 
 ```bash
-git clone https://github.com/yourrepo/mehrchat
+git clone https://github.com/Mehr-code/mehr-chat.git
 cd mehrchat
 ```
 
